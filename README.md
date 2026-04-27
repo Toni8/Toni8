@@ -21,3 +21,9 @@ discharge events for Thames Water (UK) using Scikit-Learn.
 📧 kalolohlesi@gmail.com
 🌐 [Portfolio](https://sihle-kalolo-portfolio.vercel.app/)
 📍 South Africa — Open to remote & hybrid roles
+
+## GitHub stats
+
+![Sihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toni8&show_icons=true&theme=default&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni8&layout=compact&hide_border=true)
