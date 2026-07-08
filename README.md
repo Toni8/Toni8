@@ -1,13 +1,9 @@
 # Hi, I'm Sihle Kalolo 👋
 
 Data Scientist & Analyst | Python · SQL · Power BI · ML
-
-I build predictive models and data pipelines that solve real-world problems.  
-At Sand Technology, I achieved **87% accuracy** forecasting sewage discharge events for Thames Water (UK) using Scikit-Learn.
-
 ---
 
-## 🚀 Featured Recent Project (2026)
+## 🚀 Featured Project 
 
 ### 🌍 Urban Air Quality Health Risk Predictor
 A full end-to-end **machine learning + data engineering system** that predicts air-quality health risk levels using EPA and OpenAQ data.
