@@ -103,8 +103,8 @@ https://github.com/Toni8/Urban-Air-Quality-Health-Risk-Predictor
 
 | Project | Description |
 |---------|-------------|
-| 🇿🇦 **South Africa Public Procurement Intelligence System** | Streamlit analytics platform combining procurement intelligence with machine learning insights for public sector decision-making. |
-| ⏱️ **Clockwork Media Time Tracking Dashboard** | Power BI executive dashboard analysing nearly 2,900 task records across 43 clients to uncover utilisation, rework, billable efficiency, capacity planning, and operational risks. |
+| https://github.com/Toni8/SA_Public_Procurement_Intelligence_System | Streamlit analytics platform combining procurement intelligence with machine learning insights for public sector decision-making. |
+| ⏱️ https://github.com/Toni8/Time_Tracking_Dashboard | Power BI executive dashboard analysing nearly 2,900 task records across 43 clients to uncover utilisation, rework, billable efficiency, capacity planning, and operational risks. |
 
 ---
 
